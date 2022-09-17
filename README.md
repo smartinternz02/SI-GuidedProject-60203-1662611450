@@ -1,5 +1,5 @@
 # SI-GuidedProject-60203-1662611450
-Virtual Internship - Android Application Development Using Kotlin
+Google Virtual Internship - Android Application Development Using Kotlin by Smart Internz
 
 Smartinternz Dashboard Link-https://smartinternz.com/Student/dashboard
 
